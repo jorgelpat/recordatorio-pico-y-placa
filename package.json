@@ -1,0 +1,16 @@
+{
+  "name": "recordatoriopicoplaca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^35.0.1",
+    "electron-settings": "^4.0.4"
+  }
+}
