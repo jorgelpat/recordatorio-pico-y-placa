@@ -1,9 +1,9 @@
 {
     "restricciones": {
-        "Lunes": [1,2],
-        "Martes": [3,4],
-        "Miercoles": [5,6],
-        "Jueves": [7,8],
-        "Viernes": [9,0]
+        "Lunes": [9,0],
+        "Martes": [1,2],
+        "Miercoles": [3,4],
+        "Jueves": [5,6],
+        "Viernes": [7,8]
     }
 }
